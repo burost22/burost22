@@ -5,7 +5,7 @@
 * 🔝 increasing skills the DevOps  of my stack, considering new product deployment tools.
 * 🛠 Automating workflows for procurement analysis, data scraping, and chat moderation.
 * 📖 Learning **LLMs** techs and application of new methods related to them
-* 🎲 Love play in a board games
+* 🎲 Love play in a board games and the volleyball
 * 🧐 Fun fact: Get to know me well enough and I might just make your heart Flutter😜
 ---
 ## 💻 Stack
