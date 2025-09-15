@@ -1,7 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F74F1C&background=FFF84400&center=true&vCenter=true&width=500&height=43&lines=Hi+there%2C+I'm+Rostislav+Burakovsky+%E2%9C%8C;I'm+Backend+engineer;I+work+on+Python+with+Django+and+FastAPI)](https://git.io/typing-svg)
 ---
 ## 🚀 About Me
-
+* ⌨ Designing and shipping production back‑ends in **Python** with flexible and optimise decisions
+* 🔝 increasing skills the DevOps  of my stack, considering new product deployment tools.
+* 🛠 Automating workflows for procurement analysis, data scraping, and chat moderation.
+* 📖 Learning **LLMs** techs and application of new methods related to them
+* 🎲 Love play in a board games
+* 🧐 Fun fact: Get to know me well enough and I might just make your heart Flutter😜
+---
 ## 💻 Stack
 | Area            | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -11,10 +17,10 @@
 | **Data Stores** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)                                                                                                                                                                          |
 | **DevOps**      | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)                                       |
 | **LLM APIs**    | ![OpenAI](https://img.shields.io/badge/OpenAI-008B8B?style=for-the-badge\&logo=openai\&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-4B4B4B?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-AE67FA?style=for-the-badge)                                                                                                                                   |
-| **Frontend**    | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge\&logo=css3\&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)                                                                                                                                                                                   
+| **Frontend**    | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge\&logo=css3\&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)                                                                                                                                                                                 
 <!--## 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burost22&show_icons=true&theme=transparent)-->
-
+---
 ## Contact with me <img src="https://github.com/burost22/burost22/blob/main/assets/emojis/Folded%20Hands%20Light%20Skin%20Tone.png"  width="25" height="25" />
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://web.telegram.org/k/#@burost1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ros.burakovsky@yandex.ru)
