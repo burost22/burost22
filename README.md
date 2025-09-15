@@ -15,4 +15,4 @@
 ## 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burost22&show_icons=true&theme=transparent)
 
-## Contact with me <img src="https://raw.githubusercontent.com/burost22/assets/emojis/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
+## Contact with me <img src="[https://raw.githubusercontent.com/burost22/assets/emojis/Folded%20Hands%20Light%20Skin%20Tone.png](https://github.com/burost22/burost22/blob/main/assets/emojis/Folded%20Hands%20Light%20Skin%20Tone.png)" alt="Folded Hands Light Skin Tone" width="25" height="25" />
