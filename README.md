@@ -1,7 +1,4 @@
-# Hi there, ✌
-**I'm **Rostislav Burakovsky** and glad to see you.**
-
-> **Backend engineer|wawd**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F74F1C&background=FFF84400&center=true&vCenter=true&width=500&height=43&lines=Hi+there%2C+I'm+Rostislav+Burakovsky+%E2%9C%8C;I'm+Backend+engineer;I+work+on+Python+with+Django+and+FastAPI)](https://git.io/typing-svg)
 ---
 
 
