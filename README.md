@@ -17,6 +17,6 @@
 
 ## Contact with me <img src="https://github.com/burost22/burost22/blob/main/assets/emojis/Folded%20Hands%20Light%20Skin%20Tone.png"  width="25" height="25" />
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://web.telegram.org/k/#@burost1)
-[![Email](<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" />)](mailto:burost1999@gmail.com)
+[![<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" />](mailto:burost1999@gmail.com)
 
 ---
