@@ -12,8 +12,8 @@
 | **DevOps**      | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)                                       |
 | **LLM APIs**    | ![OpenAI](https://img.shields.io/badge/OpenAI-008B8B?style=for-the-badge\&logo=openai\&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-4B4B4B?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-AE67FA?style=for-the-badge)                                                                                                                                   |
 | **Frontend**    | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge\&logo=css3\&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)                                                                                                                                                                                   
-## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burost22&show_icons=true&theme=transparent)
+<!--## 📈 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burost22&show_icons=true&theme=transparent)-->
 
 ## Contact with me <img src="https://github.com/burost22/burost22/blob/main/assets/emojis/Folded%20Hands%20Light%20Skin%20Tone.png"  width="25" height="25" />
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://web.telegram.org/k/#@burost1)
