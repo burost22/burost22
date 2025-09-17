@@ -22,7 +22,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burost22&show_icons=true&theme=transparent)-->
 ---
 ## Contact with me <img src="https://github.com/burost22/burost22/blob/main/assets/emojis/Folded%20Hands%20Light%20Skin%20Tone.png"  width="25" height="25" />
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://web.telegram.org/k/#@burost1)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/burost1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ros.burakovsky@yandex.ru)
 
 ---
